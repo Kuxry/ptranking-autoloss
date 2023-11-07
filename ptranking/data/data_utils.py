@@ -1085,3 +1085,4 @@ def np_random_mask_rele_labels(batch_label, mask_ratio, mask_value=0):
         return batch_label
     else:
         return None
+
